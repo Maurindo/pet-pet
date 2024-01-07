@@ -18,4 +18,6 @@
 .corpo img{
 
     width: 500px;
+    border-radius: 35px;
+    border: 1px solid #e711d5;
 }

@@ -51,8 +51,8 @@ function Corpo() {
             <img src={image2} alt="Outra imagem de cão" title="Com gratidão,
                 Equipe Pet-Pet"/>
             <p>
-                Com gratidão,
-                Equipe Pet-Pet
+                <strong>Com gratidão,
+                Equipe Pet-Pet</strong>
             </p>
 
         </section>
