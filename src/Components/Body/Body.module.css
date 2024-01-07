@@ -1,0 +1,21 @@
+.corpo{
+ 
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    width: 700px;
+}
+
+.corpo {
+    border: 5px solid #e711d5;
+ 
+}
+
+.corpo img{
+
+    width: 500px;
+}
