@@ -1,13 +1,9 @@
-import Corpo from "./Components/Body";
-import Footer from "./Components/Footer";
-import Header from "./Components/Header";
+import AppRoutes from "./routes";
 
 function App() {
   return (
     <>
-      <Header />
-      <Corpo />
-      <Footer />
+      <AppRoutes />
     </>
   );
 }
