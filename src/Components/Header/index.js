@@ -7,7 +7,7 @@ function Header() {
         <header className={styles.header}>
             <Link to="/"><img src={logo} alt="imagem da logo de cão"/></Link>
             <div>
-                <Link to="/Servicos"><span>Serviços</span></Link>
+                <span><Link to="/Servicos">Serviços</Link></span>
                 <span>Contatos</span>
             </div>
         </header>

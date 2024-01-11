@@ -4,7 +4,11 @@
     justify-content: space-around;
     align-items: center;
     border-bottom: 5px solid #141314;
-    background: #e711d5;
+    background: #e711d5;;
+    font-family: 'Rubik Puddles';
+    font-size: 30px;
+    font-weight: bold;
+  
     
 }
 
@@ -26,12 +30,19 @@
    
 }
 
-.header div span{
-    font-family: 'Rubik Puddles';
-    font-size: 30px;
-    font-weight: bold;
+.header a{
     text-decoration: none;
+    color: white;
 }
+
+
+.header a:hover{
+    color: black;
+  
+}
+
+
+
 
 
 
