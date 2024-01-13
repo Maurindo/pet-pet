@@ -8,7 +8,7 @@ function Header() {
             <Link to="/"><img src={logo} alt="imagem da logo de cão"/></Link>
             <div>
                 <span><Link to="/Servicos">Serviços</Link></span>
-                <span>Contatos</span>
+                <span><Link to="/contatos">Contatos</Link></span>
             </div>
         </header>
     );
