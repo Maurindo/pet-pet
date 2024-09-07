@@ -1,6 +1,11 @@
-import styles from "./Contato.module.css"
+import styles from "./Contato.module.css";
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.css';
+<<<<<<< HEAD
+
+=======
+
+
+>>>>>>> a5fd64b9cb7ae65a87ed37f5d2393fc7ecfbc716
 
 function ContatosPet(){
     return (
