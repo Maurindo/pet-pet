@@ -4,7 +4,7 @@ import React from 'react';
 function ContatosPet(){
     return (
       <div className={styles.corpo}>
-        <h4>Envia sua perguntas</h4>
+        <h4>Envia suas perguntas</h4>
         <form>
           <label>e-mail</label>
           <br />
