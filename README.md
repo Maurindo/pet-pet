@@ -30,4 +30,4 @@ Para fazer perguntas sobre quais mais serviços eles fazem...
 <img src="/imagensSite//pet08.png">
 <img src="/imagensSite//pet09.png">
 
-Além dos links clicáveis, as imagens também funcionam como elementos interativos, redirecionando o usuário para a página principa
+Além dos links clicáveis, as imagens também funcionam como elementos interativos, redirecionando o usuário para a página principal.
